@@ -1,0 +1,5 @@
+tensorflow
+pandas
+jupyterlab
+scikit-learn
+tensorflowjs
